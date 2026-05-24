@@ -1,0 +1,15 @@
+{
+  "name": "Lucy Code Builder",
+  "description": "AI-powered code generator that writes, tests, validates, and completes projects using local sandboxed execution",
+  "majorCapabilities": [
+    "code_generation",
+    "file_system_access",
+    "project_scaffolding",
+    "zip_handling",
+    "code_execution",
+    "test_runner",
+    "debugging_iteration",
+    "dependency_management",
+    "sandboxed_environment"
+  ]
+}
